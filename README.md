@@ -2,6 +2,8 @@
 
 <img align="right" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
+**Info about me:**
+
 - 🌱 I’m currently learning **Go**, **Kotlin**, **Python**
 
 - 👨‍💻 All of my projects are available at [github.com/Blake22020](https://github.com/Blake22020)
@@ -9,6 +11,8 @@
 - 💬 Ask me about **Go, Python, C++, Kotlin, Java, HTML & CSS**
 
 - 📫 How to reach me **mr.georgy.beloborodov@mail.ru**
+
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Blake22020&show_icons=true&theme=dark&locale=en&layout=compact" alt="ilborsch" /></p>
