@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>, I'm Blake</h1>
+<h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1>, I'm Blake</h1>
 
 <img align="right" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
