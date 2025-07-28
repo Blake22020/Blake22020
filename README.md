@@ -1,6 +1,18 @@
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi 👋, I'm Blake</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=Hi+there,+I'm+Blake)](https://git.io/typing-svg)
-<h3 align="center">Full-stack student, developer from Russia 🇷🇺</h3>
+<img align="right" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Blake22020)](https://git.io/streak-stats)
+- 🌱 I’m currently learning **Go**, **Kotlin**, **Python**
+
+- 👨‍💻 All of my projects are available at [github.com/Blake22020](https://github.com/Blake22020)
+
+- 💬 Ask me about **Go, Python, C++, Kotlin, Java & Kotlin**
+
+- 📫 How to reach me **mr.georgy.beloborodov@mail.ru**
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Blake22020&show_icons=true&theme=dark&locale=en&layout=compact" alt="ilborsch" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Blake22020&show_icons=true&theme=dark&locale=en" alt="ilborsch" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Blake22020rsch&theme=dark" alt="Blake2020" /></p>
