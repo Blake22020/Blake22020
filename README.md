@@ -31,7 +31,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Blake22020&show_icons=true&theme=dark&locale=en" alt="ilborsch" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Blake22020rsch&theme=dark" alt="Blake2020" /></p>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Thanks+for+your+attention" />
