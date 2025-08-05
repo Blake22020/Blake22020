@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Blake</h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=JaKooLit&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="Blake" /> </p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hello+There!+I'm+Blake+" />
+</h3>
+
 
 <img align="right" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
