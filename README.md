@@ -6,11 +6,11 @@
 
 
 
-## ?‍? О себе
+## О себе
 - Backend developer без комерческого опыта, и с 4 годами некомерческой разработки, использую Arch и Fedora Linux
 
 
-## ? Stack
+## Stack
 - Python, ML
 - Go
 - C++
