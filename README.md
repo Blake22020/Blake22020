@@ -8,3 +8,4 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blake22020&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Blake22020)](https://git.io/streak-stats)
