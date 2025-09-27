@@ -25,6 +25,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## ? Контакты
 - Email: mr.blake.hero@mail.ru
-- Web site: gblake.ru
+- Web site: [gblake.ru](https://gblake.ru/)
 - Telegram: @BLAKE_000
 
