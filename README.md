@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
--I have no commercial work experience.<br>-I'm working from home.<br>-I use firefox<br>- i use arch linux btw
+-I have no commercial work experience.<br>-I'm working from home.<br>-I use firefox<br>- i use arch linux btw<br>- I am 14 y.o.
 
 
 # 💻 Tech Stack:
