@@ -23,7 +23,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## ? Контакты
+## ? Contacts
 - Email: mr.blake.hero@mail.ru
 - Web site: [gblake.ru](https://gblake.ru/)
 - Telegram: @blake22020
