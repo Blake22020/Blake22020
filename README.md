@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have no commercial work experience <br>I use Firefox <br>I use Arch Linux btw 🐧<br>I am 14 y.o. 
+I have no commercial work experience <br>I use Firefox <br>I use Arch Linux btw
 
 
 ## 🌐 Socials:
