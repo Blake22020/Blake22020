@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have no commercial work experience <br>I use Firefox <br>I use Arch Linux btw
+I have commercial work experience<br>I use Arch and Void Linux btw
 
 
 ## 🌐 Socials:
@@ -24,4 +24,3 @@ I have no commercial work experience <br>I use Firefox <br>I use Arch Linux btw
 ---
 [![](https://visitcount.itsvg.in/api?id=blake22020&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
