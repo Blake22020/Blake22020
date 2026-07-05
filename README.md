@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have commercial work experience<br>I use Arch and Void Linux btw
+I use Arch and Void Linux btw
 
 
 ## 🌐 Socials:
