@@ -39,12 +39,13 @@ jobs:
           text = readme.read_text()
           marker = '<a href="https://metawka.github.io/expressive-profile/'
           start = text.find(marker)
-          if start < 0 or text.find(marker, start + len(marker)) >= 0:
-              raise SystemExit("expected one generator credit link")
-          end = text.find("</a>", start)
-          if end < 0:
-              raise SystemExit("generator credit link is incomplete")
-          readme.write_text(text[:start] + text[end + 4:])
+          if start >= 0:
+              if text.find(marker, start + len(marker)) >= 0:
+                  raise SystemExit("found multiple generator credit links")
+              end = text.find("</a>", start)
+              if end < 0:
+                  raise SystemExit("generator credit link is incomplete")
+              readme.write_text(text[:start] + text[end + 4:])
 
           for name in ("credit-light.svg", "credit-dark.svg"):
               (Path("assets") / name).unlink(missing_ok=True)
