@@ -1,7 +1,7 @@
 {
- "key": "e28371c7",
- "stars": 4,
- "contributions": 420,
+ "key": "580cd46f",
+ "stars": 5,
+ "contributions": 424,
  "repos": 22,
  "followers": 6,
  "languages": [
@@ -15,7 +15,7 @@
   ],
   [
    "Kotlin",
-   226326
+   239476
   ],
   [
    "CSS",
@@ -121,7 +121,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 4,
     "day": 20,
     "today": true
    },
@@ -132,7 +132,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 70
  },
  "pins": [
@@ -155,22 +155,32 @@
    "topics": []
   },
   {
-   "name": "BlakeRandom",
-   "url": "https://github.com/Blake22020/BlakeRandom",
-   "text": "",
-   "fork": false,
-   "stars": 1,
+   "name": "OctoDiary-kt",
+   "url": "https://github.com/Blake22020/OctoDiary-kt",
+   "text": "Клиент МЭШ и Моя Школа для Android 8+. Все используемые API - открытые.",
+   "fork": true,
+   "stars": 2,
    "language": "Kotlin",
    "topics": []
   },
   {
-   "name": "ViBrake",
-   "url": "https://github.com/Blake22020/ViBrake",
-   "text": "",
+   "name": "callous",
+   "url": "https://github.com/Blake22020/callous",
+   "text": "Discipline tracker for Android — habits, streaks and hell-week challenges, built with Jetpack Compose in the spirit of Nothing OS. STAY HARD.",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "Kotlin",
-   "topics": []
+   "topics": [
+    "android",
+    "habit-tracker",
+    "jetpack-compose",
+    "kotlin",
+    "material3",
+    "nothing-os",
+    "goggins",
+    "material-design",
+    "productivity"
+   ]
   }
  ],
  "all": [
@@ -191,6 +201,25 @@
    "stars": 2,
    "language": "TypeScript",
    "topics": []
+  },
+  {
+   "name": "callous",
+   "url": "https://github.com/Blake22020/callous",
+   "text": "Discipline tracker for Android — habits, streaks and hell-week challenges, built with Jetpack Compose in the spirit of Nothing OS. STAY HARD.",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "habit-tracker",
+    "jetpack-compose",
+    "kotlin",
+    "material3",
+    "nothing-os",
+    "goggins",
+    "material-design",
+    "productivity"
+   ]
   },
   {
    "name": "ani-cli-ru",
@@ -218,25 +247,6 @@
    "stars": 1,
    "language": "Kotlin",
    "topics": []
-  },
-  {
-   "name": "callous",
-   "url": "https://github.com/Blake22020/callous",
-   "text": "Discipline tracker for Android — habits, streaks and hell-week challenges, built with Jetpack Compose in the spirit of Nothing OS. STAY HARD.",
-   "fork": false,
-   "stars": 0,
-   "language": "Kotlin",
-   "topics": [
-    "android",
-    "habit-tracker",
-    "jetpack-compose",
-    "kotlin",
-    "material3",
-    "nothing-os",
-    "goggins",
-    "material-design",
-    "productivity"
-   ]
   },
   {
    "name": "xStarRay",
