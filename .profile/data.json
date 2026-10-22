@@ -1,5 +1,5 @@
 {
- "key": "306e240e",
+ "key": "5010fb4e",
  "stars": 5,
  "contributions": 424,
  "repos": 22,
@@ -128,15 +128,19 @@
    {
     "c": 0,
     "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
     "today": true
    },
-   null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 70
  },
  "pins": [
