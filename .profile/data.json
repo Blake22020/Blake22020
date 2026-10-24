@@ -1,9 +1,9 @@
 {
- "key": "174fabb0",
- "stars": 5,
+ "key": "9a8dccc0",
+ "stars": 20,
  "contributions": 426,
  "repos": 23,
- "followers": 6,
+ "followers": 7,
  "languages": [
   [
    "QML",
@@ -157,7 +157,7 @@
    "url": "https://github.com/Blake22020/GBlake",
    "text": "Text-based forum",
    "fork": false,
-   "stars": 2,
+   "stars": 3,
    "language": "TypeScript",
    "topics": []
   },
@@ -166,7 +166,7 @@
    "url": "https://github.com/Blake22020/LexiGo",
    "text": "Your language, your adventure.",
    "fork": false,
-   "stars": 1,
+   "stars": 2,
    "language": "CSS",
    "topics": []
   },
@@ -175,7 +175,7 @@
    "url": "https://github.com/Blake22020/OctoDiary-kt",
    "text": "Клиент МЭШ и Моя Школа для Android 8+. Все используемые API - открытые.",
    "fork": true,
-   "stars": 2,
+   "stars": 3,
    "language": "Kotlin",
    "topics": []
   },
@@ -184,7 +184,7 @@
    "url": "https://github.com/Blake22020/callous",
    "text": "Discipline tracker for Android — habits, streaks and hell-week challenges, built with Jetpack Compose in the spirit of Nothing OS. STAY HARD.",
    "fork": false,
-   "stars": 1,
+   "stars": 2,
    "language": "Kotlin",
    "topics": [
     "android",
@@ -205,7 +205,7 @@
    "url": "https://github.com/Blake22020/OctoDiary-kt",
    "text": "Клиент МЭШ и Моя Школа для Android 8+. Все используемые API - открытые.",
    "fork": true,
-   "stars": 2,
+   "stars": 3,
    "language": "Kotlin",
    "topics": []
   },
@@ -214,8 +214,17 @@
    "url": "https://github.com/Blake22020/GBlake",
    "text": "Text-based forum",
    "fork": false,
-   "stars": 2,
+   "stars": 3,
    "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Aether-Keyboard",
+   "url": "https://github.com/Blake22020/Aether-Keyboard",
+   "text": "Material 3 Expressive keyboard for Android: glide typing, themes, and JavaScript plugins",
+   "fork": true,
+   "stars": 2,
+   "language": "Kotlin",
    "topics": []
   },
   {
@@ -223,7 +232,7 @@
    "url": "https://github.com/Blake22020/callous",
    "text": "Discipline tracker for Android — habits, streaks and hell-week challenges, built with Jetpack Compose in the spirit of Nothing OS. STAY HARD.",
    "fork": false,
-   "stars": 1,
+   "stars": 2,
    "language": "Kotlin",
    "topics": [
     "android",
@@ -242,7 +251,7 @@
    "url": "https://github.com/Blake22020/ani-cli-ru",
    "text": "Просмотр аниме с русской озвучкой в терминале",
    "fork": true,
-   "stars": 1,
+   "stars": 2,
    "language": "Python",
    "topics": []
   },
@@ -251,7 +260,7 @@
    "url": "https://github.com/Blake22020/LexiGo",
    "text": "Your language, your adventure.",
    "fork": false,
-   "stars": 1,
+   "stars": 2,
    "language": "CSS",
    "topics": []
   },
@@ -260,16 +269,7 @@
    "url": "https://github.com/Blake22020/BlakeRandom",
    "text": "",
    "fork": false,
-   "stars": 1,
-   "language": "Kotlin",
-   "topics": []
-  },
-  {
-   "name": "Aether-Keyboard",
-   "url": "https://github.com/Blake22020/Aether-Keyboard",
-   "text": "Material 3 Expressive keyboard for Android: glide typing, themes, and JavaScript plugins",
-   "fork": true,
-   "stars": 0,
+   "stars": 2,
    "language": "Kotlin",
    "topics": []
   },
@@ -278,7 +278,7 @@
    "url": "https://github.com/Blake22020/xStarRay",
    "text": "Open-source Android / iOS proxy client built on Xray — subscriptions, Cloudflare WARP, AnyTLS, Material 3. No accounts, no telemetry.",
    "fork": true,
-   "stars": 0,
+   "stars": 1,
    "language": "Kotlin",
    "topics": []
   },
@@ -287,7 +287,7 @@
    "url": "https://github.com/Blake22020/resonance-desktop",
    "text": "A modern, customizable YouTube Music desktop client for Linux with a redesigned interface, advanced theming, player customization, and extended settings.",
    "fork": true,
-   "stars": 0,
+   "stars": 1,
    "language": "TypeScript",
    "topics": []
   },
@@ -296,7 +296,7 @@
    "url": "https://github.com/Blake22020/githubpage1",
    "text": "",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "Vue",
    "topics": []
   },
@@ -305,7 +305,7 @@
    "url": "https://github.com/Blake22020/portfolio",
    "text": "",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "TypeScript",
    "topics": []
   },
@@ -314,7 +314,7 @@
    "url": "https://github.com/Blake22020/GithubPage",
    "text": "МШП",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "CSS",
    "topics": []
   },
@@ -323,7 +323,7 @@
    "url": "https://github.com/Blake22020/EverCal",
    "text": "Calendar App I made for my linux setup",
    "fork": true,
-   "stars": 0,
+   "stars": 1,
    "language": "Dart",
    "topics": []
   },
@@ -332,7 +332,7 @@
    "url": "https://github.com/Blake22020/ru.javascript.info",
    "text": "Современный учебник JavaScript",
    "fork": true,
-   "stars": 0,
+   "stars": 1,
    "language": "HTML",
    "topics": []
   },
@@ -341,7 +341,7 @@
    "url": "https://github.com/Blake22020/BlakeHyprland",
    "text": "",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "QML",
    "topics": []
   },
@@ -350,7 +350,7 @@
    "url": "https://github.com/Blake22020/Blake22020",
    "text": "",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": null,
    "topics": []
   },
@@ -359,7 +359,7 @@
    "url": "https://github.com/Blake22020/RandomQuote",
    "text": "",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "Kotlin",
    "topics": []
   },
@@ -368,7 +368,7 @@
    "url": "https://github.com/Blake22020/Simple-Contacts",
    "text": "Easy and quick contact management with no ads, handles groups and favorites too.",
    "fork": true,
-   "stars": 0,
+   "stars": 1,
    "language": "Kotlin",
    "topics": []
   },
@@ -377,7 +377,7 @@
    "url": "https://github.com/Blake22020/BlakerCount",
    "text": "",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "Kotlin",
    "topics": []
   },
@@ -386,7 +386,7 @@
    "url": "https://github.com/Blake22020/ViBrake",
    "text": "",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "Kotlin",
    "topics": []
   },
@@ -395,7 +395,7 @@
    "url": "https://github.com/Blake22020/AndroidPomodoro",
    "text": "",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "Kotlin",
    "topics": []
   },
@@ -404,7 +404,7 @@
    "url": "https://github.com/Blake22020/Calc",
    "text": "",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "Kotlin",
    "topics": []
   },
@@ -413,7 +413,7 @@
    "url": "https://github.com/Blake22020/my-website",
    "text": "Basic HTML/CSS website about cars",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "HTML",
    "topics": []
   }
